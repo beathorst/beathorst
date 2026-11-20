@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://certdirectory.io/profile/janek-ruessmann?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/janek-ruessmann.svg?style=card&theme=dark">
+    <img alt="Janek Rüßmann on CertDirectory" src="https://certdirectory.io/badge/janek-ruessmann.svg?style=card">
+  </picture>
+</a>
+
+
 <!--
 **beathorst/beathorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
